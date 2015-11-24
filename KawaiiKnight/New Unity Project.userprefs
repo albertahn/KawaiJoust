@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/2.scripts/CsFollowCam.cs">
+    <Files>
+      <File FileName="Assets/2.scripts/MoveSpear.cs" Line="39" Column="4" />
+      <File FileName="Assets/2.scripts/CsFollowCam.cs" Line="27" Column="3" />
+      <File FileName="../Documents/github/pami_run/panipaniRacing/Assets/04.Script/player/CsHuman.cs" Line="107" Column="17" />
+      <File FileName="Assets/2.scripts/MoveEnemy.cs" Line="39" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
