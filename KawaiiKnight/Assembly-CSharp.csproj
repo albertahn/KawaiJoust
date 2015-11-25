@@ -50,7 +50,7 @@
      <Compile Include="Assets\2.scripts\CsFollowCam.cs" />
      <Compile Include="Assets\2.scripts\GameMNG.cs" />
      <Compile Include="Assets\2.scripts\MoveEnemy.cs" />
-     <Compile Include="Assets\2.scripts\MoveSpear.cs" />
+     <Compile Include="Assets\2.scripts\Player\MovePlayer.cs" />
      <Compile Include="Assets\InteractiveDemo\Scripts\FireProjectile.cs" />
      <Compile Include="Assets\InteractiveDemo\Scripts\HUDFPS.cs" />
      <Compile Include="Assets\InteractiveDemo\Scripts\MyGUI.cs" />

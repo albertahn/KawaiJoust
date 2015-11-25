@@ -50,7 +50,7 @@
      <Compile Include="Assets\2.scripts\CsFollowCam.cs" />
      <Compile Include="Assets\2.scripts\GameMNG.cs" />
      <Compile Include="Assets\2.scripts\MoveEnemy.cs" />
-     <Compile Include="Assets\2.scripts\MoveSpear.cs" />
+     <Compile Include="Assets\2.scripts\Player\MovePlayer.cs" />
      <Compile Include="Assets\InteractiveDemo\Scripts\FireProjectile.cs" />
      <Compile Include="Assets\InteractiveDemo\Scripts\HUDFPS.cs" />
      <Compile Include="Assets\InteractiveDemo\Scripts\MyGUI.cs" />
@@ -66,7 +66,7 @@
      <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
      <None Include="Assets\DynamicElements_Effects\readme.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>/Users/albertan/Documents/github/KawaiJoust_first/KawaiiKnight/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>/Users/albertan/Documents/git_hub/KawaiJoust_11_25/KawaiiKnight/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
